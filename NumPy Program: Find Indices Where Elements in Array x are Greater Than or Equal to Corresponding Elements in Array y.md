@@ -24,5 +24,6 @@ print(equal)
 ```
 
 ## Output
+<img width="1178" height="385" alt="image" src="https://github.com/user-attachments/assets/f77f9f90-f1a1-4efd-aa5d-6f07b3c1e51b" />
 
 ## Result
